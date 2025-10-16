@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hello, I'm Azzdine Emjad  
+🎓 Final-year Computer Engineering student at EHEI Oujda, passionate about software development and DevOps.  
 
-<!--
-**Emjad1257/Emjad1257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Technologies I use:  
+- **Frontend:** Angular, React, HTML, CSS, TypeScript  
+- **Backend:** .NET Core, Java Spring Boot, Python (FastAPI)  
+- **DevOps:** Docker, Jenkins, Kubernetes, GitHub Actions  
+- **Databases:** MySQL, PostgreSQL, SQL Server  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:  
+- LinkedIn: [azddine-emjad](https://www.linkedin.com/in/azddine-emjad)  
+- Email: azddineemjad@gmail.com  
