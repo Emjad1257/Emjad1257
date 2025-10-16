@@ -1,4 +1,4 @@
-# Hello, I'm Azzdine Emjad  
+# Hello, I'm Azddine Emjad  
  Final-year Computer Engineering student at EHEI Oujda, passionate about software development and DevOps.  
 
  Technologies I use:  
